@@ -33,7 +33,7 @@ Und dann kann es losgehen!
 
 Alle Kommilitonen PI19 sind dazu eingeladen, ihre eigenen Beiträge zu diesem Projekt zu leisten und ihre Ideen einzubringen. Wenn du einen Beitrag leisten willst, kannst du wie folgt vorgehen:
 
-1. Wenn du hier neu bist, erstelle auf jeden Fall ersteinmal [ein Issue](https://github.com/importPI19fromDHGE/dhge-pi19-sem6/issues/new). Dann können wir uns gerne über deine Idee austauschen.
+1. Wenn du hier neu bist, erstelle auf jeden Fall ersteinmal [ein Issue](https://github.com/importPI20fromDHGE/dhge-pi20-sem6/issues/new). Dann können wir uns gerne über deine Idee austauschen.
 2. `git clone` diese Repo und erstelle mit `git checkout -b <branchname>` eine neue Branch
 3. Implementiere deine Idee. Bei Fragen kannst du dich gerne über das Issue an uns wenden.
 4. Erstelle eine Pull Request, markiere dabei via @mention die Personen aus dem Issue und warte auf Feedback.
