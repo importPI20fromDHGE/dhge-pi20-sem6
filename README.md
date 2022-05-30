@@ -1,10 +1,12 @@
-# DHGE - Praktische Informatik - Matrikel 19 - Semester 6
+# DHGE - Praktische Informatik - Matrikel 20 - Semester 6
 
 Dieses Repository ist ein Projekt von Studierenden des Studiengangs "Praktische Informatik" der Dualen Hochschule Gera-Eisenach.
 Hier werden alle Mitschriften der einzelnen Modulen gesammelt.
 Die Skripte liegen im `markdown`-Format vor.
 Zur besseren Handhabung (und weil Github nur begrenzte `markdown`-Features bereitstellt)
-werden diese zusätzlich automatisch in [PDFs](https://github.com/importPI19fromDHGE/dhge-pi19-sem6/releases) umgewandelt und zur Verfügung gestellt.
+werden diese zusätzlich automatisch in [PDFs](https://github.com/importPI20fromDHGE/dhge-pi20-sem6/releases) umgewandelt und zur Verfügung gestellt.
+
+Dieses Repo wurde von PI19 erstellt und gepflegt, PI20 führt hier diese Aufzeichnungen weiter.
 
 ## Contributing (andere Jahrgänge)
 
@@ -27,7 +29,7 @@ Du kannst folgendermaßen vorgehen:
 
 Und dann kann es losgehen!
 
-## Contributing (PI 19)
+## Contributing (PI 20)
 
 Alle Kommilitonen PI19 sind dazu eingeladen, ihre eigenen Beiträge zu diesem Projekt zu leisten und ihre Ideen einzubringen. Wenn du einen Beitrag leisten willst, kannst du wie folgt vorgehen:
 
